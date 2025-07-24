@@ -1,0 +1,530 @@
+[
+    {
+        "symptoms": [
+            "fever",
+            "cough",
+            "fatigue"
+        ],
+        "disease": "Flu"
+    },
+    {
+        "symptoms": [
+            "headache",
+            "nausea",
+            "dizziness"
+        ],
+        "disease": "Migraine"
+    },
+    {
+        "symptoms": [
+            "rash",
+            "itchiness",
+            "fever"
+        ],
+        "disease": "Chickenpox"
+    },
+    {
+        "symptoms": [
+            "cough",
+            "chest pain",
+            "shortness of breath"
+        ],
+        "disease": "Pneumonia"
+    },
+    {
+        "symptoms": [
+            "sore throat",
+            "runny nose",
+            "sneezing"
+        ],
+        "disease": "Common Cold"
+    },
+    {
+        "symptoms": [
+            "abdominal pain",
+            "diarrhea",
+            "vomiting"
+        ],
+        "disease": "Gastroenteritis"
+    },
+    {
+        "symptoms": [
+            "joint pain",
+            "swelling",
+            "stiffness"
+        ],
+        "disease": "Arthritis"
+    },
+    {
+        "symptoms": [
+            "chest pain",
+            "shortness of breath",
+            "nausea"
+        ],
+        "disease": "Heart Attack"
+    },
+    {
+        "symptoms": [
+            "high blood sugar",
+            "frequent urination",
+            "increased thirst"
+        ],
+        "disease": "Diabetes"
+    },
+    {
+        "symptoms": [
+            "weight gain",
+            "fatigue",
+            "cold intolerance"
+        ],
+        "disease": "Hypothyroidism"
+    },
+    {
+        "symptoms": [
+            "weight loss",
+            "heat intolerance",
+            "rapid heartbeat"
+        ],
+        "disease": "Hyperthyroidism"
+    },
+    {
+        "symptoms": [
+            "persistent cough",
+            "bloody sputum",
+            "weight loss"
+        ],
+        "disease": "Tuberculosis"
+    },
+    {
+        "symptoms": [
+            "loss of memory",
+            "confusion",
+            "difficulty speaking"
+        ],
+        "disease": "Alzheimer's Disease"
+    },
+    {
+        "symptoms": [
+            "mood swings",
+            "depression",
+            "insomnia"
+        ],
+        "disease": "Bipolar Disorder"
+    },
+    {
+        "symptoms": [
+            "difficulty breathing",
+            "wheezing",
+            "chest tightness"
+        ],
+        "disease": "Asthma"
+    },
+    {
+        "symptoms": [
+            "severe headache",
+            "stiff neck",
+            "sensitivity to light"
+        ],
+        "disease": "Meningitis"
+    },
+    {
+        "symptoms": [
+            "painful urination",
+            "lower abdominal pain",
+            "frequent urination"
+        ],
+        "disease": "Urinary Tract Infection"
+    },
+    {
+        "symptoms": [
+            "skin redness",
+            "blisters",
+            "pain"
+        ],
+        "disease": "Shingles"
+    },
+    {
+        "symptoms": [
+            "uncontrolled shaking",
+            "rigidity",
+            "slow movement"
+        ],
+        "disease": "Parkinson's Disease"
+    },
+    {
+        "symptoms": [
+            "chronic pain",
+            "fatigue",
+            "sleep disturbances"
+        ],
+        "disease": "Fibromyalgia"
+    },
+    {
+        "symptoms": [
+            "bloody diarrhea",
+            "abdominal cramps",
+            "weight loss"
+        ],
+        "disease": "Crohn's Disease"
+    },
+    {
+        "symptoms": [
+            "loss of vision",
+            "eye pain",
+            "flashes of light"
+        ],
+        "disease": "Retinal Detachment"
+    },
+    {
+        "symptoms": [
+            "excessive sweating",
+            "tremors",
+            "irritability"
+        ],
+        "disease": "Hyperthyroidism"
+    },
+    {
+        "symptoms": [
+            "yellow skin",
+            "dark urine",
+            "fatigue"
+        ],
+        "disease": "Hepatitis"
+    },
+    {
+        "symptoms": [
+            "weakness",
+            "pale skin",
+            "shortness of breath"
+        ],
+        "disease": "Anemia"
+    },
+    {
+        "symptoms": [
+            "swollen lymph nodes",
+            "night sweats",
+            "weight loss"
+        ],
+        "disease": "Lymphoma"
+    },
+    {
+        "symptoms": [
+            "excessive thirst",
+            "frequent urination",
+            "blurred vision"
+        ],
+        "disease": "Diabetes Mellitus"
+    },
+    {
+        "symptoms": [
+            "back pain",
+            "leg numbness",
+            "difficulty walking"
+        ],
+        "disease": "Herniated Disc"
+    },
+    {
+        "symptoms": [
+            "difficulty swallowing",
+            "heartburn",
+            "chest pain"
+        ],
+        "disease": "GERD"
+    },
+    {
+        "symptoms": [
+            "burning urination",
+            "pelvic pain",
+            "bloody urine"
+        ],
+        "disease": "Bladder Infection"
+    },
+    {
+        "symptoms": [
+            "night sweats",
+            "chronic cough",
+            "weight loss"
+        ],
+        "disease": "Lung Cancer"
+    },
+    {
+        "symptoms": [
+            "frequent infections",
+            "fatigue",
+            "bruising"
+        ],
+        "disease": "Leukemia"
+    },
+    {
+        "symptoms": [
+            "muscle weakness",
+            "double vision",
+            "drooping eyelids"
+        ],
+        "disease": "Myasthenia Gravis"
+    },
+    {
+        "symptoms": [
+            "numbness",
+            "tingling",
+            "loss of balance"
+        ],
+        "disease": "Multiple Sclerosis"
+    },
+    {
+        "symptoms": [
+            "sharp abdominal pain",
+            "bloating",
+            "constipation"
+        ],
+        "disease": "Irritable Bowel Syndrome"
+    },
+    {
+        "symptoms": [
+            "stomach pain",
+            "loss of appetite",
+            "jaundice"
+        ],
+        "disease": "Pancreatitis"
+    },
+    {
+        "symptoms": [
+            "excessive hunger",
+            "weight loss",
+            "fatigue"
+        ],
+        "disease": "Cushing's Syndrome"
+    },
+    {
+        "symptoms": [
+            "dry skin",
+            "hair loss",
+            "fatigue"
+        ],
+        "disease": "Hypoparathyroidism"
+    },
+    {
+        "symptoms": [
+            "difficulty speaking",
+            "arm weakness",
+            "face drooping"
+        ],
+        "disease": "Stroke"
+    },
+    {
+        "symptoms": [
+            "muscle cramps",
+            "twitching",
+            "weakness"
+        ],
+        "disease": "Amyotrophic Lateral Sclerosis"
+    },
+    {
+        "symptoms": [
+            "swollen joints",
+            "morning stiffness",
+            "pain"
+        ],
+        "disease": "Rheumatoid Arthritis"
+    },
+    {
+        "symptoms": [
+            "excessive daytime sleepiness",
+            "sudden muscle weakness",
+            "hallucinations"
+        ],
+        "disease": "Narcolepsy"
+    },
+    {
+        "symptoms": [
+            "chronic cough",
+            "wheezing",
+            "shortness of breath"
+        ],
+        "disease": "Chronic Bronchitis"
+    },
+    {
+        "symptoms": [
+            "easy bruising",
+            "excessive bleeding",
+            "fatigue"
+        ],
+        "disease": "Hemophilia"
+    },
+    {
+        "symptoms": [
+            "dark stools",
+            "abdominal pain",
+            "fatigue"
+        ],
+        "disease": "Peptic Ulcer Disease"
+    },
+    {
+        "symptoms": [
+            "pale skin",
+            "difficulty concentrating",
+            "fatigue"
+        ],
+        "disease": "Iron Deficiency Anemia"
+    },
+    {
+        "symptoms": [
+            "itchy scalp",
+            "dandruff",
+            "red patches"
+        ],
+        "disease": "Psoriasis"
+    },
+    {
+        "symptoms": [
+            "frequent nosebleeds",
+            "bleeding gums",
+            "fatigue"
+        ],
+        "disease": "Vitamin K Deficiency"
+    },
+    {
+        "symptoms": [
+            "blurry vision",
+            "eye pain",
+            "halo around lights"
+        ],
+        "disease": "Glaucoma"
+    },
+    {
+        "symptoms": [
+            "hoarseness",
+            "chronic cough",
+            "lump in throat"
+        ],
+        "disease": "Laryngeal Cancer"
+    },
+    {
+        "symptoms": [
+            "low blood pressure",
+            "darkening of skin",
+            "fatigue"
+        ],
+        "disease": "Addison's Disease"
+    },
+    {
+        "symptoms": [
+            "difficulty urinating",
+            "pelvic pain",
+            "blood in semen"
+        ],
+        "disease": "Prostate Cancer"
+    },
+    {
+        "symptoms": [
+            "persistent bloating",
+            "pelvic pain",
+            "loss of appetite"
+        ],
+        "disease": "Ovarian Cancer"
+    },
+    {
+        "symptoms": [
+            "loss of appetite",
+            "unexplained weight loss",
+            "abdominal pain"
+        ],
+        "disease": "Stomach Cancer"
+    },
+    {
+        "symptoms": [
+            "severe leg pain",
+            "swelling",
+            "redness"
+        ],
+        "disease": "Deep Vein Thrombosis"
+    },
+    {
+        "symptoms": [
+            "memory loss",
+            "poor judgment",
+            "difficulty focusing"
+        ],
+        "disease": "Dementia"
+    },
+    {
+        "symptoms": [
+            "slow speech",
+            "tremors",
+            "muscle rigidity"
+        ],
+        "disease": "Parkinsonism"
+    },
+    {
+        "symptoms": [
+            "chronic diarrhea",
+            "dehydration",
+            "weight loss"
+        ],
+        "disease": "Cholera"
+    },
+    {
+        "symptoms": [
+            "fatigue",
+            "paleness",
+            "shortness of breath"
+        ],
+        "disease": "Sickle Cell Anemia"
+    },
+    {
+        "symptoms": [
+            "difficulty breathing",
+            "low oxygen levels",
+            "chronic fatigue"
+        ],
+        "disease": "Emphysema"
+    },
+    {
+        "symptoms": [
+            "dry mouth",
+            "difficulty swallowing",
+            "tooth decay"
+        ],
+        "disease": "Sjogren's Syndrome"
+    },
+    {
+        "symptoms": [
+            "unexplained bruising",
+            "nosebleeds",
+            "red spots on skin"
+        ],
+        "disease": "Thrombocytopenia"
+    },
+    {
+        "symptoms": [
+            "excessive thirst",
+            "dry mouth",
+            "frequent urination"
+        ],
+        "disease": "Dehydration"
+    },
+    {
+        "symptoms": [
+            "sensitivity to cold",
+            "fatigue",
+            "constipation"
+        ],
+        "disease": "Underactive Thyroid"
+    },
+    {
+        "symptoms": [
+            "abdominal swelling",
+            "vomiting",
+            "pain"
+        ],
+        "disease": "Appendicitis"
+    },
+    {
+        "symptoms": [
+            "rapid weight gain",
+            "stretch marks",
+            "high blood pressure"
+        ],
+        "disease": "Cushing's Syndrome"
+    }
+]
